@@ -1,4 +1,4 @@
-date,polytex_site1_area1_line1_sensor_temperature,line1_sensor_flow,line1_sensor_pressure,polytex_site1_area3_line2_sensor_temperature,polytex_site1_area3_line2_sensor_flow,polytex_site1_area3_line2_sensor_pressure,line3_temperature_sensor,line3_flow_sensor,line3_pressure_sensor,line4_temperature_sensor,line4_flow_sensor,line4_pressure_sensor
+date,polytex_site1_area1_line1_sensor_temperature,line1_sensor_flow,line1_sensor_pressure,line2_temperature_sensor,line2_flow_sensor,line2_pressure_sensor,line3_temperature_sensor,line3_flow_sensor,line3_pressure_sensor,line4_temperature_sensor,line4_flow_sensor,line4_pressure_sensor
 2024-11-03,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
 2024-11-04,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 2024-11-05,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
@@ -365,5 +365,6 @@ date,polytex_site1_area1_line1_sensor_temperature,line1_sensor_flow,line1_sensor
 2025-11-01,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 2025-11-02,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 2025-11-03,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE
+
 
 
